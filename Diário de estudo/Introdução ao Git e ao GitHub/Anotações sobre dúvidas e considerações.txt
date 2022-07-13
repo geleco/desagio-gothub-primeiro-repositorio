@@ -1,0 +1,7 @@
+O curso de ampresentou uma plataformna até então desconhecida no sentido de usa-lá e comecei a compreender como o sistema funciona.
+Em termos simples paraece que entendi seu funcionamento, mas ainda me pego com algumas dúvidas:
+1. Algumas nomemclaturas como commit e stage ainda não entraram em minha cabeça, mas acho que deve ser algo que se pega com o tempo.
+2. Será que não existe uma plataforma de uso local mais amigável? Tenho usado o gitdash, mas ainda apanho quando não entendo o que ele me mostra.
+3. A questão das scodificações não me ficou muito clara - Estudar e entender mais esse assunto.
+
+Sem mais a acrscentar agora é colocar a mão na massa e continuar os estudos
